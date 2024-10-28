@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB8EA1C-C63E-4FE9-99C1-AE1001B1A16C}|ConsoleApp1.csproj|c:\\users\\izafe\\onedrive\\desktop\\25.10-practice\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB8EA1C-C63E-4FE9-99C1-AE1001B1A16C}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48F9442-E1C5-4EBE-A85A-E6A607037E1D}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\25.10-practice\\core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48F9442-E1C5-4EBE-A85A-E6A607037E1D}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\25.10-practice\\core\\helper\\exceptions\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48F9442-E1C5-4EBE-A85A-E6A607037E1D}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\25.10-practice\\core\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48F9442-E1C5-4EBE-A85A-E6A607037E1D}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\25.10-practice\\core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48F9442-E1C5-4EBE-A85A-E6A607037E1D}|..\\Core\\Core.csproj|c:\\users\\izafe\\onedrive\\desktop\\25.10-practice\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\models\\Room.cs",
+              "RelativeDocumentMoniker": "..\\Core\\models\\Room.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\models\\Room.cs",
+              "RelativeToolTip": "..\\Core\\models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:08:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\models\\Hotel.cs",
+              "RelativeDocumentMoniker": "..\\Core\\models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\models\\Hotel.cs",
+              "RelativeToolTip": "..\\Core\\models\\Hotel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:08:25.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\helper\\exceptions\\NotAvailableException.cs",
+              "RelativeDocumentMoniker": "..\\Core\\helper\\exceptions\\NotAvailableException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\helper\\exceptions\\NotAvailableException.cs",
+              "RelativeToolTip": "..\\Core\\helper\\exceptions\\NotAvailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:07:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Core\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Core\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:06:03.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "..\\Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\Core\\Core.csproj",
+              "RelativeToolTip": "..\\Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T15:05:23.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\25.10-practice\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:08:29.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
